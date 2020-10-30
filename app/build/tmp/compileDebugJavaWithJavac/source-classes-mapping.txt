@@ -1,0 +1,10 @@
+com/example/simpleparadox/listycity/BuildConfig.java
+ com.example.simpleparadox.listycity.BuildConfig
+com/example/simpleparadox/listycity/CityList.java
+ com.example.simpleparadox.listycity.CityList
+com/example/simpleparadox/listycity/MainActivity.java
+ com.example.simpleparadox.listycity.MainActivity
+com/example/simpleparadox/listycity/City.java
+ com.example.simpleparadox.listycity.City
+com/example/simpleparadox/listycity/CustomList.java
+ com.example.simpleparadox.listycity.CustomList
