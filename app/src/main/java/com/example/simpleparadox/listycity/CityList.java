@@ -82,6 +82,6 @@ public class CityList {
      * Clears the list of all cities
      */
     public void clearCities() {
-        return;
+        this.cities.clear();
     }
 }
